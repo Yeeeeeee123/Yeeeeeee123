@@ -6,4 +6,4 @@
 :bread:
 
 *LittleWhite*
-![Snake Chart](https://raw.githubusercontent.com/WIISHTPAN/WIISHTPAN/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/WIISHTPAN/WIISHTPAN/main/assets/github-contribution-grid-snake.svg)
