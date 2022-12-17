@@ -11,4 +11,4 @@
 ![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
 
-![](https://raw.githubusercontent.com/WIISHTPAN/WIISHTPAN/main/assets/github-contribution-grid-snake.svg)
+![Snake Chart](https://raw.githubusercontent.com/WIISHTPAN/WIISHTPAN/output/github-contribution-grid-snake.svg)
